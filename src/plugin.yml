@@ -1,0 +1,17 @@
+main: de.simpleolli.simplenick.SimpleNick
+name: SimpleNick
+version: 1.0.0
+author: SimpleOlli
+commands:
+  nick:
+    description:
+    usage:
+  nickList:
+    description:
+    usage:
+  unnick:
+    description:
+    usage:
+  nickNames:
+    description:
+    usage:
